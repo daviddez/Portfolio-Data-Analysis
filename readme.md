@@ -7,3 +7,5 @@ These files contain personal projects that I have completed through institutiona
 ## Projects:
 ### Text Analysis - 12 Princesses .ipynb
   This workbook will uses the Natural Language Toolkit Library (nltk) to look at the contents of 12dancingprincesses.txt file (located in /datasets). I will clean the text by removing all punctuation and stopwords('english') before pulling the top ten words used in the file.
+### Text Analysis - Women's E-Commerce Clothing Reviews
+This workbook will use the Natural Language Toolkit Library (nltk) to analyze and process a pandas dataframe, using the Women's E-Commerce Clothing Reviews from kaggle.com (https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews).
