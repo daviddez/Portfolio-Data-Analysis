@@ -2,7 +2,7 @@
 Using python and jupyter notebooks to analyze and prepare data.
 
 ## Description
-These files contain personal projects that I have completed through institutional training or personal projects of interest.  They have all broadened my understanding of programming and data science and I have posted them here to share and motivate/inspire others to pursue the same endeavors. 
+These files contain personal projects that I have completed through institutional training or personal projects of interest.  They have all broadened my understanding of programming and data science.  I have posted them here to share and motivate/inspire others to pursue the same endeavors. 
 
 ## Projects:
 ### Supervised - Naive Bayes - Gaussian and Bernoulli 
